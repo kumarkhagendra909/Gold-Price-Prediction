@@ -15,4 +15,4 @@ analysing steps are following:
 10. linear regression(Simple Linear Regression) model for prediction
 11. Saving into .pkl file form
 12. deploying .pkl model file in Tkinter GUI
-13. redata set link:https://www.bankbazaar.com/gold-rate/gold-rate-trend-in-india.html
+13. data set link:https://www.bankbazaar.com/gold-rate/gold-rate-trend-in-india.html
