@@ -1,7 +1,7 @@
 # Gold-Price-Prediction
 Basic Statistical Analysis
 Analysing Gold Price hikes 
-analysing steps are following 
+analysing steps are following:
 1. Mean
 2. Median
 3. Mode
@@ -11,7 +11,8 @@ analysing steps are following
 7. Max
 8. Min
 9. Range
-linear regression(Simple Linear Regression) model for prediction
-Saving into .pkl file form
-deploying .pkl model file in Tkinter GUI
-data set link:https://www.bankbazaar.com/gold-rate/gold-rate-trend-in-india.html
+
+10. linear regression(Simple Linear Regression) model for prediction
+11. Saving into .pkl file form
+12. deploying .pkl model file in Tkinter GUI
+13. redata set link:https://www.bankbazaar.com/gold-rate/gold-rate-trend-in-india.html
